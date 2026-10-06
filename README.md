@@ -6,8 +6,6 @@ A cultural food festival for 200+ international students, run as a full project
 lifecycle — stakeholder cadrage, scored risk register, MS Project scheduling,
 budget and vendor coordination, and post-event KPI reporting.
 
-**Full visual case study:** https://claude.ai/artifact/Jn6UyiaoyWQPGGDaEdtm9j
-
 ## Overview
 
 Gastrovaganza showcased five national cuisines — Chinese, French, Indian,
