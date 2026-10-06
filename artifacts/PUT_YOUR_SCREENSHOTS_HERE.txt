@@ -1,8 +1,0 @@
-Add these four files to this folder (exported from your original PPTX/XLSX):
-
-1. risk-register.png        <- the Excel risk register screenshot
-2. gantt-chart.png          <- the GanttPro Gantt chart screenshot (slide 7)
-3. ms-project-tracker.png   <- the MS Project tracker screenshot (slide 6)
-4. projects-organigram.png  <- the multi-project organigram screenshot
-
-Then delete this text file.
