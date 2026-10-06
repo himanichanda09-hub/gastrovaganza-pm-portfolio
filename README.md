@@ -33,38 +33,38 @@ programme director.
 | Name | Role |
 |---|---|
 | Himani Pal | Project Manager |
-| Tronel Abel | Assistant Project Manager |
-| Prathmesh Shinde | Quality Manager |
-| Xuewen Qing | Risk Manager |
-| Thomas Sauzedde | Resource & Schedule Manager |
+| T Abel | Assistant Project Manager |
+| P Shinde | Quality Manager |
+| X Qing | Risk Manager |
+| T Sauzedde | Resource & Schedule Manager |
 
 ## Risk management
 
 Risk register scored on a 5×5 impact/likelihood matrix (score = impact ×
-likelihood), reviewed weekly with the Risk Manager. See `artifacts/risk-register.png`
+likelihood), reviewed weekly with the Risk Manager. See [Risk Register](./artifacts/Risk_register.png) 
 for the full register.
 
-| Risk | Score | Response |
+
+| Risk | Pre-Mitigation Score | Strategy |
 |---|---|---|
-| Logistics (venue, equipment, supplies) | 25 (High) | Mitigated |
-| Food safety | 20 (High) | Mitigated |
-| Food allergy | 20 (High) | Mitigated |
-| Financial (no guaranteed funding) | 20 (High) | Mitigated |
-| Manage resources (vendor coordination) | 20 (High) | Mitigated |
-| Low participant turnout | 16 (Medium) | Monitored |
-| Limited team experience | 9 (Medium) | Monitored |
-| Weather | 6 (Low) | Accepted |
-| Team management | 6 (Low) | Accepted |
-| Cultural misrepresentation | 2 (Low) | Accepted |
+| Logistics (venue, equipment, supplies) | 25 (Critical) | Mitigate |
+| Food safety | 20 (Critical) | Mitigate |
+| Food allergy | 20 (Critical) | Mitigate |
+| Financial (no guaranteed funding) | 20 (Critical) | Mitigate |
+| Manage resources (vendor coordination) | 20 (Critical) | Mitigate |
+| Low participant turnout | 16 (High) | Mitigate |
+| Limited team experience | 9 (Medium) | Reduce / Monitor |
+| Weather | 6 (Medium) | Accept / Fallback |
+| Team management | 6 (Medium) | Reduce / Monitor |
+| Cultural misrepresentation | 2 (Low) | Accept |
 
 ## Planning & execution
 
 Scheduled in MS Project across five phases — Project Initiation, Research &
 Planning, Marketing & Promotion, Logistics Coordination, Event Execution —
-with milestone diamonds at each stakeholder decision point. See
-`artifacts/gantt-chart.png`. Team tracked progress on a shared board (Name /
-Assigned to / % complete / Priority) and communicated via Teams, WhatsApp and
-email.
+with milestone diamonds at each stakeholder decision point. 
+See [Gantt Chart](./artifacts/gantt-chart.png) and [MS Project Tracker](./artifacts/ms-project-tracker.png). 
+Team tracked progress on a shared board and communicated via Teams, WhatsApp, and email.
 
 ## Challenges & solutions
 
@@ -91,7 +91,7 @@ Gastrovaganza ran alongside seven other live student-led projects in the same
 cohort, each resourced and risk-managed using the same governance template. I
 served as Project Manager on Gastrovaganza and Assistant Project Manager on
 the Road Safety Audit project — portfolio-level coordination, not just
-single-project delivery. See `artifacts/projects-organigram.png`.
+single-project delivery.
 
 | Project | Complexity | My role |
 |---|---|---|
